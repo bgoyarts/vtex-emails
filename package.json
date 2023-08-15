@@ -24,11 +24,14 @@
     "gulp-strip-comments": "^2.5.2",
     "gulp-util": "^3.0.8",
     "handlebars-helpers": "^0.10.0",
-    "sass": "^1.39.0",
     "juice": "^8.0.0",
+    "prettier": "^3.0.1",
+    "sass": "^1.39.0",
     "tachyons-sass": "^4.9.5",
     "through2": "^4.0.2",
     "web-resource-inliner": "^5.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+
+  }
 }

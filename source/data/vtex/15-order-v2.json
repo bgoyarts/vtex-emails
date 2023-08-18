@@ -1,0 +1,3402 @@
+{
+	"orders": [
+		{
+			"package": null,
+			"subjectItemAttachment": {
+				"item": "CARE Silver Savior S...",
+				"totalItems": 725,
+				"extraItems": 724
+			},
+			"cancellationReason": null,
+			"items": [
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/2818/",
+						"productClusterId": "137,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "Tinta Color Concept",
+						"brandId": "2010",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "460",
+					"priceTable": "p6990010",
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/460",
+					"uniqueId": "FF4B093E722341AAAB3C87B17B5DC49C",
+					"id": "460",
+					"productId": "2800101",
+					"productRefId": "26290",
+					"refId": "26001.11",
+					"ean": "8717185381245",
+					"name": "Tinta Color Red Booster Tinta Color No. 1",
+					"skuName": "Tinta Color No. 1",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 668,
+					"listPrice": 668,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 668,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/2818/",
+					"productCategories": {
+						"2800": "Color",
+						"2818": "Boosters"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/160912-55-55/Tinta-Color-No-1.jpg?v=638247754426870000",
+					"detailUrl": "/26290-tinta-color-red-booster/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 668,
+						"total": 32064,
+						"sellingPrices": [
+							{
+								"value": 668,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/",
+						"productClusterId": "137,138,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "So Pure Color Concept",
+						"brandId": "2007",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "31",
+					"priceTable": "p6990010",
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/31",
+					"uniqueId": "05DB605E71A0464A868E2908AAF7D5D8",
+					"id": "31",
+					"productId": "2800102",
+					"productRefId": "sk_2800102",
+					"refId": "40822.11",
+					"ean": "8719281063810",
+					"name": "So Pure Color Semi Color No. 8.22",
+					"skuName": "Semi Color No. 8.22",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 668,
+					"listPrice": 668,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 668,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/",
+					"productCategories": {
+						"2800": "Color"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/161189-55-55/Semi-Color-No-822.jpg?v=638247790829430000",
+					"detailUrl": "/so-pure-color/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 668,
+						"total": 32064,
+						"sellingPrices": [
+							{
+								"value": 668,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/2818/",
+						"productClusterId": "137,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "Tinta Color Concept",
+						"brandId": "2010",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "61",
+					"priceTable": "p6990010",
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/61",
+					"uniqueId": "A323672D364F443C8F78DA3CE10D422F",
+					"id": "61",
+					"productId": "2800101",
+					"productRefId": "26290",
+					"refId": "26061.11",
+					"ean": "8717185381474",
+					"name": "Tinta Color Red Booster Tinta Color No. 6.1",
+					"skuName": "Tinta Color No. 6.1",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 668,
+					"listPrice": 668,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 668,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/2818/",
+					"productCategories": {
+						"2800": "Color",
+						"2818": "Boosters"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/160933-55-55/Tinta-Color-No-61.jpg?v=638247756917570000",
+					"detailUrl": "/26290-tinta-color-red-booster/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 668,
+						"total": 32064,
+						"sellingPrices": [
+							{
+								"value": 668,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/2818/",
+						"productClusterId": "137,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "Tinta Color Concept",
+						"brandId": "2010",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "738",
+					"priceTable": null,
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/738",
+					"uniqueId": "0144E1373749496E84945EF3F7D453D7",
+					"id": "738",
+					"productId": "2800101",
+					"productRefId": "26290",
+					"refId": "26555.11",
+					"ean": "8717185383539",
+					"name": "Tinta Color Red Booster Tinta Color No. 0/55",
+					"skuName": "Tinta Color No. 0/55",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 0,
+					"listPrice": 0,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/2818/",
+					"productCategories": {
+						"2800": "Color",
+						"2818": "Boosters"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/160977-55-55/Tinta-Color-No-0-55.jpg?v=638247762707530000",
+					"detailUrl": "/26290-tinta-color-red-booster/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 0,
+						"total": 0,
+						"sellingPrices": [
+							{
+								"value": 0,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/",
+						"productClusterId": "137,138,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "So Pure Color Concept",
+						"brandId": "2007",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "568",
+					"priceTable": "p6990010",
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/568",
+					"uniqueId": "C48FF15AD0E94098A5CB0EC2647B3A44",
+					"id": "568",
+					"productId": "2800102",
+					"productRefId": "sk_2800102",
+					"refId": "40666RI.11",
+					"ean": "8719281060161",
+					"name": "So Pure Color Semi Color No. 6.66RI",
+					"skuName": "Semi Color No. 6.66RI",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 685,
+					"listPrice": 685,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 685,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/",
+					"productCategories": {
+						"2800": "Color"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/161180-55-55/Semi-Color-No-666RI.jpg?v=638247789999770000",
+					"detailUrl": "/so-pure-color/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 685,
+						"total": 32880,
+						"sellingPrices": [
+							{
+								"value": 685,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2100/2104/",
+						"productClusterId": "",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "Care Concept",
+						"brandId": "2004",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "658",
+					"priceTable": "p6990010",
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": null,
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/658",
+					"uniqueId": "0FBBA9C158A4488CAAA713D05E8EE1B5",
+					"id": "658",
+					"productId": "2800549",
+					"productRefId": "21402.01",
+					"refId": "21402.01",
+					"ean": "8719281058175",
+					"name": "CARE Silver Savior Shampoo",
+					"skuName": "CARE Silver Savior Shampoo",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 1678,
+					"listPrice": 1678,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 1678,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2100/2104/",
+					"productCategories": {
+						"2100": "Care",
+						"2104": "Shampoo"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/160801-55-55/CARE-Silver-Savior-Shampoo.jpg?v=638247734167000000",
+					"detailUrl": "/21402-01-care-silver-savior-shampoo/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 1678,
+						"total": 80544,
+						"sellingPrices": [
+							{
+								"value": 1678,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/2818/",
+						"productClusterId": "137,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "Tinta Color Concept",
+						"brandId": "2010",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "744",
+					"priceTable": null,
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/744",
+					"uniqueId": "2168DC4CB9664FEBBDF0093BEDFC34F3",
+					"id": "744",
+					"productId": "2800101",
+					"productRefId": "26290",
+					"refId": "26646.11",
+					"ean": "8717185381504",
+					"name": "Tinta Color Red Booster Tinta Color No. 6.46",
+					"skuName": "Tinta Color No. 6.46",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 0,
+					"listPrice": 0,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/2818/",
+					"productCategories": {
+						"2800": "Color",
+						"2818": "Boosters"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/160985-55-55/Tinta-Color-No-646.jpg?v=638247764144200000",
+					"detailUrl": "/26290-tinta-color-red-booster/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 0,
+						"total": 0,
+						"sellingPrices": [
+							{
+								"value": 0,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/2818/",
+						"productClusterId": "137,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "Tinta Color Concept",
+						"brandId": "2010",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "723",
+					"priceTable": null,
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/723",
+					"uniqueId": "3A23DB8C084140369E36A7F0D67A9A34",
+					"id": "723",
+					"productId": "2800101",
+					"productRefId": "26290",
+					"refId": "26376.11",
+					"ean": "8717185381276",
+					"name": "Tinta Color Red Booster Tinta Color No. 3.76",
+					"skuName": "Tinta Color No. 3.76",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 0,
+					"listPrice": 0,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/2818/",
+					"productCategories": {
+						"2800": "Color",
+						"2818": "Boosters"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/160959-55-55/Tinta-Color-No-376.jpg?v=638247760482270000",
+					"detailUrl": "/26290-tinta-color-red-booster/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 0,
+						"total": 0,
+						"sellingPrices": [
+							{
+								"value": 0,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/2818/",
+						"productClusterId": "137,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "Tinta Color Concept",
+						"brandId": "2010",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "7",
+					"priceTable": "p6990010",
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/7",
+					"uniqueId": "164867763BE34F38A5FBDE7F15A85FB3",
+					"id": "7",
+					"productId": "2800101",
+					"productRefId": "26290",
+					"refId": "26072.11",
+					"ean": "8717185381580",
+					"name": "Tinta Color Red Booster Tinta Color No. 7.2",
+					"skuName": "Tinta Color No. 7.2",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 668,
+					"listPrice": 668,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 668,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/2818/",
+					"productCategories": {
+						"2800": "Color",
+						"2818": "Boosters"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/160937-55-55/Tinta-Color-No-72.jpg?v=638247757399670000",
+					"detailUrl": "/26290-tinta-color-red-booster/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 668,
+						"total": 32064,
+						"sellingPrices": [
+							{
+								"value": 668,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/2818/",
+						"productClusterId": "137,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "Tinta Color Concept",
+						"brandId": "2010",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "86",
+					"priceTable": "p6990010",
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/86",
+					"uniqueId": "9D6458959349412A95A744B407032C04",
+					"id": "86",
+					"productId": "2800101",
+					"productRefId": "26290",
+					"refId": "62611.10",
+					"ean": "8719281099444",
+					"name": "Tinta Color Red Booster Tinta Color No. 6.11",
+					"skuName": "Tinta Color No. 6.11",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 668,
+					"listPrice": 668,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 668,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/2818/",
+					"productCategories": {
+						"2800": "Color",
+						"2818": "Boosters"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/161297-55-55/Tinta-Color-No-611.jpg?v=638247803650270000",
+					"detailUrl": "/26290-tinta-color-red-booster/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 668,
+						"total": 32064,
+						"sellingPrices": [
+							{
+								"value": 668,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/2818/",
+						"productClusterId": "137,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "Tinta Color Concept",
+						"brandId": "2010",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "593",
+					"priceTable": "p6990010",
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/593",
+					"uniqueId": "85C4C6EA43B24A84B51810CCE33C34DC",
+					"id": "593",
+					"productId": "2800101",
+					"productRefId": "26290",
+					"refId": "62034.10",
+					"ean": "8719281099468",
+					"name": "Tinta Color Red Booster Tinta Color No. 0/34",
+					"skuName": "Tinta Color No. 0/34",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 668,
+					"listPrice": 668,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 668,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/2818/",
+					"productCategories": {
+						"2800": "Color",
+						"2818": "Boosters"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/161280-55-55/Tinta-Color-No-0-34.jpg?v=638247801829400000",
+					"detailUrl": "/26290-tinta-color-red-booster/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 668,
+						"total": 32064,
+						"sellingPrices": [
+							{
+								"value": 668,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/2818/",
+						"productClusterId": "137,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "Tinta Color Concept",
+						"brandId": "2010",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "619",
+					"priceTable": null,
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/619",
+					"uniqueId": "E768F4861E74440C8EAF8602A4E2E1A0",
+					"id": "619",
+					"productId": "2800101",
+					"productRefId": "26290",
+					"refId": "62635UC.11",
+					"ean": "8719281111443",
+					"name": "Tinta Color Red Booster Tinta Color No. 6.35 UC",
+					"skuName": "Tinta Color No. 6.35 UC",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 0,
+					"listPrice": 0,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/2818/",
+					"productCategories": {
+						"2800": "Color",
+						"2818": "Boosters"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/161302-55-55/Tinta-Color-No-635-UC.jpg?v=638247804157330000",
+					"detailUrl": "/26290-tinta-color-red-booster/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 0,
+						"total": 0,
+						"sellingPrices": [
+							{
+								"value": 0,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2700/2760/",
+						"productClusterId": "138",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "So Pure Concept",
+						"brandId": "2009",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "49",
+					"priceTable": "p6990010",
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": null,
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/49",
+					"uniqueId": "91E3D6A28FDC498F98A12354CEE4F198",
+					"id": "49",
+					"productId": "2800128",
+					"productRefId": "23346",
+					"refId": "23346",
+					"ean": "8718375522073",
+					"name": "So Pure Travel Size Defrizz Serum",
+					"skuName": "So Pure Travel Size Defrizz Serum",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 1137,
+					"listPrice": 1137,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 1137,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2700/2760/",
+					"productCategories": {
+						"2700": "Style",
+						"2760": "Serum"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/160890-55-55/So-Pure-Travel-Size-Defrizz-Serum.jpg?v=638247751168200000",
+					"detailUrl": "/23346-so-pure-travel-size-defrizz-serum/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 1137,
+						"total": 54576,
+						"sellingPrices": [
+							{
+								"value": 1137,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/2818/",
+						"productClusterId": "137,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "Tinta Color Concept",
+						"brandId": "2010",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "431",
+					"priceTable": "p6990010",
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/431",
+					"uniqueId": "003840C8603246F49E6289839E78F059",
+					"id": "431",
+					"productId": "2800101",
+					"productRefId": "26290",
+					"refId": "62904.11",
+					"ean": "8719281111344",
+					"name": "Tinta Color Red Booster Tinta Color No. 9.04",
+					"skuName": "Tinta Color No. 9.04",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 668,
+					"listPrice": 668,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 668,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/2818/",
+					"productCategories": {
+						"2800": "Color",
+						"2818": "Boosters"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/161309-55-55/Tinta-Color-No-904.jpg?v=638247804874770000",
+					"detailUrl": "/26290-tinta-color-red-booster/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 668,
+						"total": 32064,
+						"sellingPrices": [
+							{
+								"value": 668,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2800/2818/",
+						"productClusterId": "137,139",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "Tinta Color Concept",
+						"brandId": "2010",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "742",
+					"priceTable": "p6990010",
+					"priceValidUntil": "2024-08-15T12:37:34Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/742",
+					"uniqueId": "8ACF0B288D0744DC904510CB7805C0B2",
+					"id": "742",
+					"productId": "2800101",
+					"productRefId": "26290",
+					"refId": "26635UC.11",
+					"ean": "8718734852537",
+					"name": "Tinta Color Red Booster Tinta Color No. 6.35 UC",
+					"skuName": "Tinta Color No. 6.35 UC",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 668,
+					"listPrice": 668,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 668,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/2800/2818/",
+					"productCategories": {
+						"2800": "Color",
+						"2818": "Boosters"
+					},
+					"quantity": 48,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/160983-55-55/Tinta-Color-No-635-UC.jpg?v=638247763753230000",
+					"detailUrl": "/26290-tinta-color-red-booster/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 668,
+						"total": 32064,
+						"sellingPrices": [
+							{
+								"value": 668,
+								"quantity": 48
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2700/2736/",
+						"productClusterId": "",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 1,
+							"height": 10,
+							"length": 10,
+							"weight": 10,
+							"width": 10
+						},
+						"brandName": "Style Concept",
+						"brandId": "2006",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "779",
+					"priceTable": null,
+					"priceValidUntil": "4000-01-01T03:00:00Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/779",
+					"uniqueId": "3707354604E64646860F3F0612F3F2F2",
+					"id": "779",
+					"productId": "2800581",
+					"productRefId": "",
+					"refId": null,
+					"ean": "r24r32432re",
+					"name": "gift Style Fiber Wax x10",
+					"skuName": "gift Style Fiber Wax x10",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 11500,
+					"listPrice": 11500,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"rewardValue": 0,
+					"isGift": true,
+					"preSaleDate": null,
+					"productCategoryIds": "/2700/2736/",
+					"productCategories": {
+						"2700": "Style",
+						"2736": "Wax"
+					},
+					"quantity": 1,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/161318-55-55/Screenshot-2023-07-17-at-15.37.44.png?v=638251978771170000",
+					"detailUrl": "/gift-fiber-wax/p",
+					"components": [
+						{
+							"uniqueId": "07193B4C72AD44A8B359D6376A367916",
+							"id": "77",
+							"productId": null,
+							"productRefId": null,
+							"refId": "27456",
+							"ean": "8719281066743",
+							"name": "Style Fiber Wax",
+							"skuName": null,
+							"modalType": null,
+							"parentItemIndex": null,
+							"parentAssemblyBinding": null,
+							"assemblies": [],
+							"priceValidUntil": null,
+							"tax": 0,
+							"price": 1150,
+							"listPrice": null,
+							"manualPrice": null,
+							"manualPriceAppliedBy": null,
+							"sellingPrice": 0,
+							"rewardValue": 0,
+							"isGift": false,
+							"additionalInfo": {
+								"dimension": {
+									"cubicweight": 0,
+									"height": 1,
+									"length": 1,
+									"weight": 1,
+									"width": 1
+								},
+								"brandName": null,
+								"brandId": null,
+								"offeringInfo": null,
+								"offeringType": null,
+								"offeringTypeId": null
+							},
+							"preSaleDate": null,
+							"productCategoryIds": null,
+							"productCategories": {},
+							"quantity": 10,
+							"seller": null,
+							"sellerChain": [
+								null
+							],
+							"imageUrl": null,
+							"detailUrl": null,
+							"components": [],
+							"bundleItems": [],
+							"attachments": [],
+							"attachmentOfferings": [],
+							"offerings": [],
+							"priceTags": [
+								{
+									"name": "DISCOUNT@GIFT",
+									"value": 100,
+									"rawValue": 1,
+									"isPercentual": true,
+									"identifier": "05fee09e-9441-441d-977e-73b8dbcfa0a8"
+								}
+							],
+							"availability": null,
+							"measurementUnit": "un",
+							"unitMultiplier": 1,
+							"manufacturerCode": null,
+							"priceDefinition": {
+								"calculatedSellingPrice": 0,
+								"total": 0,
+								"sellingPrices": [
+									{
+										"value": 0,
+										"quantity": 10
+									}
+								]
+							}
+						}
+					],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "DISCOUNT@GIFT",
+							"value": 100,
+							"rawValue": 1,
+							"isPercentual": true,
+							"identifier": "05fee09e-9441-441d-977e-73b8dbcfa0a8"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 0,
+						"total": 0,
+						"sellingPrices": [
+							{
+								"value": 0,
+								"quantity": 1
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2700/2736/",
+						"productClusterId": "",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 1,
+							"height": 10,
+							"length": 10,
+							"weight": 10,
+							"width": 10
+						},
+						"brandName": "Style Concept",
+						"brandId": "2006",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "779",
+					"priceTable": null,
+					"priceValidUntil": "4000-01-01T03:00:00Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/779",
+					"uniqueId": "3707354604E64646860F3F0612F3F2F2",
+					"id": "779",
+					"productId": "2800581",
+					"productRefId": "",
+					"refId": null,
+					"ean": "r24r32432re",
+					"name": "gift Style Fiber Wax x10",
+					"skuName": "gift Style Fiber Wax x10",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 11500,
+					"listPrice": 11500,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"rewardValue": 0,
+					"isGift": true,
+					"preSaleDate": null,
+					"productCategoryIds": "/2700/2736/",
+					"productCategories": {
+						"2700": "Style",
+						"2736": "Wax"
+					},
+					"quantity": 1,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/161318-55-55/Screenshot-2023-07-17-at-15.37.44.png?v=638251978771170000",
+					"detailUrl": "/gift-fiber-wax/p",
+					"components": [
+						{
+							"uniqueId": "F161681C352F4A289149DB1797672F3A",
+							"id": "77",
+							"productId": null,
+							"productRefId": null,
+							"refId": "27456",
+							"ean": "8719281066743",
+							"name": "Style Fiber Wax",
+							"skuName": null,
+							"modalType": null,
+							"parentItemIndex": null,
+							"parentAssemblyBinding": null,
+							"assemblies": [],
+							"priceValidUntil": null,
+							"tax": 0,
+							"price": 1150,
+							"listPrice": null,
+							"manualPrice": null,
+							"manualPriceAppliedBy": null,
+							"sellingPrice": 0,
+							"rewardValue": 0,
+							"isGift": false,
+							"additionalInfo": {
+								"dimension": {
+									"cubicweight": 0,
+									"height": 1,
+									"length": 1,
+									"weight": 1,
+									"width": 1
+								},
+								"brandName": null,
+								"brandId": null,
+								"offeringInfo": null,
+								"offeringType": null,
+								"offeringTypeId": null
+							},
+							"preSaleDate": null,
+							"productCategoryIds": null,
+							"productCategories": {},
+							"quantity": 10,
+							"seller": null,
+							"sellerChain": [
+								null
+							],
+							"imageUrl": null,
+							"detailUrl": null,
+							"components": [],
+							"bundleItems": [],
+							"attachments": [],
+							"attachmentOfferings": [],
+							"offerings": [],
+							"priceTags": [
+								{
+									"name": "DISCOUNT@GIFT",
+									"value": 100,
+									"rawValue": 1,
+									"isPercentual": true,
+									"identifier": "05fee09e-9441-441d-977e-73b8dbcfa0a8"
+								}
+							],
+							"availability": null,
+							"measurementUnit": "un",
+							"unitMultiplier": 1,
+							"manufacturerCode": null,
+							"priceDefinition": {
+								"calculatedSellingPrice": 0,
+								"total": 0,
+								"sellingPrices": [
+									{
+										"value": 0,
+										"quantity": 10
+									}
+								]
+							}
+						}
+					],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "DISCOUNT@GIFT",
+							"value": 100,
+							"rawValue": 1,
+							"isPercentual": true,
+							"identifier": "05fee09e-9441-441d-977e-73b8dbcfa0a8"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 0,
+						"total": 0,
+						"sellingPrices": [
+							{
+								"value": 0,
+								"quantity": 1
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2700/2736/",
+						"productClusterId": "",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 1,
+							"height": 10,
+							"length": 10,
+							"weight": 10,
+							"width": 10
+						},
+						"brandName": "Style Concept",
+						"brandId": "2006",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "779",
+					"priceTable": null,
+					"priceValidUntil": "4000-01-01T03:00:00Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/779",
+					"uniqueId": "3707354604E64646860F3F0612F3F2F2",
+					"id": "779",
+					"productId": "2800581",
+					"productRefId": "",
+					"refId": null,
+					"ean": "r24r32432re",
+					"name": "gift Style Fiber Wax x10",
+					"skuName": "gift Style Fiber Wax x10",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 11500,
+					"listPrice": 11500,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"rewardValue": 0,
+					"isGift": true,
+					"preSaleDate": null,
+					"productCategoryIds": "/2700/2736/",
+					"productCategories": {
+						"2700": "Style",
+						"2736": "Wax"
+					},
+					"quantity": 1,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/161318-55-55/Screenshot-2023-07-17-at-15.37.44.png?v=638251978771170000",
+					"detailUrl": "/gift-fiber-wax/p",
+					"components": [
+						{
+							"uniqueId": "FB006DB8CF31463F98E3F2231A80787A",
+							"id": "77",
+							"productId": null,
+							"productRefId": null,
+							"refId": "27456",
+							"ean": "8719281066743",
+							"name": "Style Fiber Wax",
+							"skuName": null,
+							"modalType": null,
+							"parentItemIndex": null,
+							"parentAssemblyBinding": null,
+							"assemblies": [],
+							"priceValidUntil": null,
+							"tax": 0,
+							"price": 1150,
+							"listPrice": null,
+							"manualPrice": null,
+							"manualPriceAppliedBy": null,
+							"sellingPrice": 0,
+							"rewardValue": 0,
+							"isGift": false,
+							"additionalInfo": {
+								"dimension": {
+									"cubicweight": 0,
+									"height": 1,
+									"length": 1,
+									"weight": 1,
+									"width": 1
+								},
+								"brandName": null,
+								"brandId": null,
+								"offeringInfo": null,
+								"offeringType": null,
+								"offeringTypeId": null
+							},
+							"preSaleDate": null,
+							"productCategoryIds": null,
+							"productCategories": {},
+							"quantity": 10,
+							"seller": null,
+							"sellerChain": [
+								null
+							],
+							"imageUrl": null,
+							"detailUrl": null,
+							"components": [],
+							"bundleItems": [],
+							"attachments": [],
+							"attachmentOfferings": [],
+							"offerings": [],
+							"priceTags": [
+								{
+									"name": "DISCOUNT@GIFT",
+									"value": 100,
+									"rawValue": 1,
+									"isPercentual": true,
+									"identifier": "05fee09e-9441-441d-977e-73b8dbcfa0a8"
+								}
+							],
+							"availability": null,
+							"measurementUnit": "un",
+							"unitMultiplier": 1,
+							"manufacturerCode": null,
+							"priceDefinition": {
+								"calculatedSellingPrice": 0,
+								"total": 0,
+								"sellingPrices": [
+									{
+										"value": 0,
+										"quantity": 10
+									}
+								]
+							}
+						}
+					],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "DISCOUNT@GIFT",
+							"value": 100,
+							"rawValue": 1,
+							"isPercentual": true,
+							"identifier": "05fee09e-9441-441d-977e-73b8dbcfa0a8"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 0,
+						"total": 0,
+						"sellingPrices": [
+							{
+								"value": 0,
+								"quantity": 1
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2700/2736/",
+						"productClusterId": "",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 1,
+							"height": 10,
+							"length": 10,
+							"weight": 10,
+							"width": 10
+						},
+						"brandName": "Style Concept",
+						"brandId": "2006",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "779",
+					"priceTable": null,
+					"priceValidUntil": "4000-01-01T03:00:00Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/779",
+					"uniqueId": "3707354604E64646860F3F0612F3F2F2",
+					"id": "779",
+					"productId": "2800581",
+					"productRefId": "",
+					"refId": null,
+					"ean": "r24r32432re",
+					"name": "gift Style Fiber Wax x10",
+					"skuName": "gift Style Fiber Wax x10",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 11500,
+					"listPrice": 11500,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"rewardValue": 0,
+					"isGift": true,
+					"preSaleDate": null,
+					"productCategoryIds": "/2700/2736/",
+					"productCategories": {
+						"2700": "Style",
+						"2736": "Wax"
+					},
+					"quantity": 1,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/161318-55-55/Screenshot-2023-07-17-at-15.37.44.png?v=638251978771170000",
+					"detailUrl": "/gift-fiber-wax/p",
+					"components": [
+						{
+							"uniqueId": "0797FDAF0F6B480CA0BEB595DFEE7877",
+							"id": "77",
+							"productId": null,
+							"productRefId": null,
+							"refId": "27456",
+							"ean": "8719281066743",
+							"name": "Style Fiber Wax",
+							"skuName": null,
+							"modalType": null,
+							"parentItemIndex": null,
+							"parentAssemblyBinding": null,
+							"assemblies": [],
+							"priceValidUntil": null,
+							"tax": 0,
+							"price": 1150,
+							"listPrice": null,
+							"manualPrice": null,
+							"manualPriceAppliedBy": null,
+							"sellingPrice": 0,
+							"rewardValue": 0,
+							"isGift": false,
+							"additionalInfo": {
+								"dimension": {
+									"cubicweight": 0,
+									"height": 1,
+									"length": 1,
+									"weight": 1,
+									"width": 1
+								},
+								"brandName": null,
+								"brandId": null,
+								"offeringInfo": null,
+								"offeringType": null,
+								"offeringTypeId": null
+							},
+							"preSaleDate": null,
+							"productCategoryIds": null,
+							"productCategories": {},
+							"quantity": 10,
+							"seller": null,
+							"sellerChain": [
+								null
+							],
+							"imageUrl": null,
+							"detailUrl": null,
+							"components": [],
+							"bundleItems": [],
+							"attachments": [],
+							"attachmentOfferings": [],
+							"offerings": [],
+							"priceTags": [
+								{
+									"name": "DISCOUNT@GIFT",
+									"value": 100,
+									"rawValue": 1,
+									"isPercentual": true,
+									"identifier": "05fee09e-9441-441d-977e-73b8dbcfa0a8"
+								}
+							],
+							"availability": null,
+							"measurementUnit": "un",
+							"unitMultiplier": 1,
+							"manufacturerCode": null,
+							"priceDefinition": {
+								"calculatedSellingPrice": 0,
+								"total": 0,
+								"sellingPrices": [
+									{
+										"value": 0,
+										"quantity": 10
+									}
+								]
+							}
+						}
+					],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "DISCOUNT@GIFT",
+							"value": 100,
+							"rawValue": 1,
+							"isPercentual": true,
+							"identifier": "05fee09e-9441-441d-977e-73b8dbcfa0a8"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 0,
+						"total": 0,
+						"sellingPrices": [
+							{
+								"value": 0,
+								"quantity": 1
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/2700/2736/",
+						"productClusterId": "",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 1,
+							"height": 10,
+							"length": 10,
+							"weight": 10,
+							"width": 10
+						},
+						"brandName": "Style Concept",
+						"brandId": "2006",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "779",
+					"priceTable": null,
+					"priceValidUntil": "4000-01-01T03:00:00Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:keuneqacountry:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/779",
+					"uniqueId": "3707354604E64646860F3F0612F3F2F2",
+					"id": "779",
+					"productId": "2800581",
+					"productRefId": "",
+					"refId": null,
+					"ean": "r24r32432re",
+					"name": "gift Style Fiber Wax x10",
+					"skuName": "gift Style Fiber Wax x10",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 11500,
+					"listPrice": 11500,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"rewardValue": 0,
+					"isGift": true,
+					"preSaleDate": null,
+					"productCategoryIds": "/2700/2736/",
+					"productCategories": {
+						"2700": "Style",
+						"2736": "Wax"
+					},
+					"quantity": 1,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://keuneqacountry.vteximg.com.br/arquivos/ids/161318-55-55/Screenshot-2023-07-17-at-15.37.44.png?v=638251978771170000",
+					"detailUrl": "/gift-fiber-wax/p",
+					"components": [
+						{
+							"uniqueId": "E7F56291A26F4388A2FB7F7CFD4FC0E0",
+							"id": "77",
+							"productId": null,
+							"productRefId": null,
+							"refId": "27456",
+							"ean": "8719281066743",
+							"name": "Style Fiber Wax",
+							"skuName": null,
+							"modalType": null,
+							"parentItemIndex": null,
+							"parentAssemblyBinding": null,
+							"assemblies": [],
+							"priceValidUntil": null,
+							"tax": 0,
+							"price": 1150,
+							"listPrice": null,
+							"manualPrice": null,
+							"manualPriceAppliedBy": null,
+							"sellingPrice": 0,
+							"rewardValue": 0,
+							"isGift": false,
+							"additionalInfo": {
+								"dimension": {
+									"cubicweight": 0,
+									"height": 1,
+									"length": 1,
+									"weight": 1,
+									"width": 1
+								},
+								"brandName": null,
+								"brandId": null,
+								"offeringInfo": null,
+								"offeringType": null,
+								"offeringTypeId": null
+							},
+							"preSaleDate": null,
+							"productCategoryIds": null,
+							"productCategories": {},
+							"quantity": 10,
+							"seller": null,
+							"sellerChain": [
+								null
+							],
+							"imageUrl": null,
+							"detailUrl": null,
+							"components": [],
+							"bundleItems": [],
+							"attachments": [],
+							"attachmentOfferings": [],
+							"offerings": [],
+							"priceTags": [
+								{
+									"name": "DISCOUNT@GIFT",
+									"value": 100,
+									"rawValue": 1,
+									"isPercentual": true,
+									"identifier": "05fee09e-9441-441d-977e-73b8dbcfa0a8"
+								}
+							],
+							"availability": null,
+							"measurementUnit": "un",
+							"unitMultiplier": 1,
+							"manufacturerCode": null,
+							"priceDefinition": {
+								"calculatedSellingPrice": 0,
+								"total": 0,
+								"sellingPrices": [
+									{
+										"value": 0,
+										"quantity": 10
+									}
+								]
+							}
+						}
+					],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "DISCOUNT@GIFT",
+							"value": 100,
+							"rawValue": 1,
+							"isPercentual": true,
+							"identifier": "05fee09e-9441-441d-977e-73b8dbcfa0a8"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 0,
+						"total": 0,
+						"sellingPrices": [
+							{
+								"value": 0,
+								"quantity": 1
+							}
+						]
+					}
+				}
+			],
+			"sellers": [
+				{
+					"subSellerId": "1",
+					"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?an=keuneqacountry",
+					"id": "1",
+					"name": "Keune Haircosmetics",
+					"logo": ""
+				}
+			],
+			"giftRegistryData": null,
+			"receiptData": null,
+			"contextData": null,
+			"marketPlaceOrderId": "",
+			"marketPlaceOrderGroup": null,
+			"marketplaceServicesEndpoint": null,
+			"orderFormId": "18a932a939774c2586c5aeb5b0817ff8",
+			"sequence": "500187",
+			"affiliateId": "",
+			"status": "",
+			"callCenterOperator": "",
+			"userProfileId": "ec61b97e-8436-4153-828f-e637ee310014",
+			"hostName": "keuneqacountry",
+			"creationVersion": null,
+			"creationEnvironment": null,
+			"lastChangeVersion": null,
+			"workflowInstanceId": null,
+			"marketplacePaymentValue": null,
+			"orderId": "1354370500187-01",
+			"orderGroup": "1354370500187",
+			"state": "payment-pending",
+			"isCheckedIn": false,
+			"sellerOrderId": "00-1354370500187-01",
+			"storeId": null,
+			"checkedInPickupPointId": null,
+			"value": 424512,
+			"totals": [
+				{
+					"id": "Items",
+					"name": "Items Total",
+					"value": 424512
+				},
+				{
+					"id": "Discounts",
+					"name": "Discounts Total",
+					"value": 0
+				},
+				{
+					"id": "Shipping",
+					"name": "Shipping Total",
+					"value": 0
+				},
+				{
+					"id": "Tax",
+					"name": "Tax Total",
+					"value": 0
+				}
+			],
+			"clientProfileData": {
+				"email": "b**.g************.a********@i*******.c****************.c*.v***.c**.b*",
+				"firstName": "B**",
+				"lastName": "G******",
+				"document": null,
+				"documentType": "document",
+				"phone": "0*********",
+				"corporateName": null,
+				"tradeName": null,
+				"corporateDocument": null,
+				"stateInscription": null,
+				"corporatePhone": null,
+				"isCorporate": false,
+				"profileCompleteOnLoading": true,
+				"profileErrorOnLoading": false,
+				"customerClass": null
+			},
+			"ratesAndBenefitsData": {
+				"rateAndBenefitsIdentifiers": [
+					{
+						"id": "05fee09e-9441-441d-977e-73b8dbcfa0a8",
+						"name": "KIT 12:1 Fiber wax",
+						"featured": false,
+						"description": null,
+						"matchedParameters": {
+							"buyAndWin@Marketing": "460,31,61,738,568,744,723,7,86,593,619,431,742"
+						},
+						"additionalInfo": null
+					}
+				],
+				"teaser": []
+			},
+			"shippingData": {
+				"address": {
+					"addressType": "commercial",
+					"receiverName": "I***",
+					"addressId": "1534339687",
+					"isDisposable": false,
+					"postalCode": "3******",
+					"city": "S****",
+					"state": "Keune Digital",
+					"country": "NLD",
+					"street": "Z*********** 7",
+					"number": null,
+					"neighborhood": null,
+					"complement": null,
+					"reference": null,
+					"geoCoordinates": [
+						-51.4779552,
+						-0.0039779
+					]
+				},
+				"logisticsInfo": [
+					{
+						"itemIndex": 0,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "460",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 1,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "31",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 2,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "61",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 3,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "738",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 4,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "568",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 5,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "658",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 6,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "744",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 7,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "723",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 8,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "7",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 9,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "86",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 10,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "593",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 11,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "619",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 12,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "49",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 13,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "431",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 14,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 48,
+										"kitItemDetails": []
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "742",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 15,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 1,
+										"kitItemDetails": [
+											{
+												"itemId": "77",
+												"warehouseId": "4001"
+											}
+										]
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "779",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 16,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 1,
+										"kitItemDetails": [
+											{
+												"itemId": "77",
+												"warehouseId": "4001"
+											}
+										]
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "779",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 17,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 1,
+										"kitItemDetails": [
+											{
+												"itemId": "77",
+												"warehouseId": "4001"
+											}
+										]
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "779",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 18,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 1,
+										"kitItemDetails": [
+											{
+												"itemId": "77",
+												"warehouseId": "4001"
+											}
+										]
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "779",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					},
+					{
+						"itemIndex": 19,
+						"selectedSla": "Standard delivery",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "1534339687",
+						"slas": [
+							{
+								"id": "Standard delivery",
+								"deliveryChannel": "delivery",
+								"name": "Standard delivery",
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"warehouseId": "4001",
+										"dockId": "1",
+										"courierName": "Standard carrier",
+										"quantity": 1,
+										"kitItemDetails": [
+											{
+												"itemId": "77",
+												"warehouseId": "4001"
+											}
+										]
+									}
+								],
+								"shippingEstimate": "0bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "15d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": "",
+								"transitTime": "0bd"
+							}
+						],
+						"shipsTo": [
+							"USA",
+							"NLD"
+						],
+						"itemId": "779",
+						"deliveryChannels": [
+							{
+								"id": "delivery"
+							}
+						]
+					}
+				],
+				"selectedAddresses": [
+					{
+						"addressType": "commercial",
+						"receiverName": "I***",
+						"addressId": "1534339687",
+						"isDisposable": false,
+						"postalCode": "3******",
+						"city": "S****",
+						"state": "Keune Digital",
+						"country": "NLD",
+						"street": "Z*********** 7",
+						"number": null,
+						"neighborhood": null,
+						"complement": null,
+						"reference": null,
+						"geoCoordinates": [
+							-51.4779552,
+							-0.0039779
+						]
+					}
+				],
+				"availableAddresses": [
+					{
+						"addressType": "commercial",
+						"receiverName": "I***",
+						"addressId": "1534339687",
+						"isDisposable": false,
+						"postalCode": "3******",
+						"city": "S****",
+						"state": "Keune Digital",
+						"country": "NLD",
+						"street": "Z*********** 7",
+						"number": null,
+						"neighborhood": null,
+						"complement": null,
+						"reference": null,
+						"geoCoordinates": [
+							-51.4779552,
+							-0.0039779
+						]
+					}
+				],
+				"pickupPoints": []
+			},
+			"paymentData": {
+				"giftCards": [],
+				"transactions": [
+					{
+						"isActive": true,
+						"transactionId": "ED745A52D63E4BA8BDA703EDFD574DEE",
+						"merchantName": "KEUNEQACOUNTRY",
+						"payments": [
+							{
+								"id": "8E81BABBC8374481BF55562018EEA75B",
+								"paymentSystem": "201",
+								"paymentSystemName": "invoice",
+								"value": 424512,
+								"installments": 1,
+								"connectorResponses": {},
+								"referenceValue": 424512,
+								"cardHolder": null,
+								"cardNumber": null,
+								"firstDigits": null,
+								"lastDigits": null,
+								"cvv2": null,
+								"expireMonth": null,
+								"expireYear": null,
+								"url": null,
+								"koinUrl": null,
+								"tid": null,
+								"redemptionCode": null,
+								"giftCardId": null,
+								"giftCardProvider": null,
+								"giftCardAsDiscount": null,
+								"group": "promissory",
+								"dueDate": null,
+								"accountId": null,
+								"parentAccountId": null,
+								"bankIssuedInvoiceIdentificationNumber": null,
+								"bankIssuedInvoiceIdentificationNumberFormatted": null,
+								"bankIssuedInvoiceBarCodeNumber": null,
+								"bankIssuedInvoiceBarCodeType": null,
+								"billingAddress": null
+							}
+						],
+						"sharedTransaction": false
+					}
+				]
+			},
+			"clientPreferencesData": {
+				"locale": "nl-NL",
+				"optinNewsLetter": false
+			},
+			"commercialConditionData": null,
+			"marketingData": {
+				"utmSource": null,
+				"utmMedium": "953dfe38-0b58-11ee-83ab-169f863d6da3",
+				"utmCampaign": "94a7f0f1-0b58-11ee-83ab-024692d6f103",
+				"utmipage": null,
+				"utmiPart": null,
+				"utmiCampaign": null,
+				"coupon": null,
+				"marketingTags": []
+			},
+			"storePreferencesData": {
+				"countryCode": "NLD",
+				"saveUserData": false,
+				"timeZone": "W. Europe Standard Time",
+				"currencyCode": "EUR",
+				"currencyLocale": 1043,
+				"currencySymbol": "€",
+				"currencyFormatInfo": {
+					"currencyDecimalDigits": 2,
+					"currencyDecimalSeparator": ",",
+					"currencyGroupSeparator": ".",
+					"currencyGroupSize": 3,
+					"startsWithCurrencySymbol": true
+				}
+			},
+			"openTextField": null,
+			"invoiceData": null,
+			"itemMetadata": null,
+			"taxData": null,
+			"customData": {
+				"customApps": [
+					{
+						"fields": {
+							"customerNumber": "2023060803",
+							"shipToNumber": "0"
+						},
+						"id": "keune-order",
+						"major": 1
+					}
+				]
+			},
+			"hooksData": null,
+			"changeData": null,
+			"subscriptionData": null,
+			"salesChannel": "1",
+			"followUpEmail": "7ca196c861534d04846ba97c3e5d11f4@ct.vtex.com.br",
+			"creationDate": "2023-08-15T12:37:58.4899325Z",
+			"lastChange": "2023-08-15T12:38:05.3635301Z",
+			"timeZoneCreationDate": "2023-08-15T14:37:58.4899325",
+			"timeZoneLastChange": "2023-08-15T14:38:05.3635301",
+			"isCompleted": true,
+			"merchantName": null,
+			"userType": "",
+			"roundingError": 0,
+			"allowEdition": false,
+			"allowCancellation": false,
+			"isUserDataVisible": false,
+			"allowChangeSeller": false
+		}
+	],
+	"ordersUrl": "http://keuneqacountry.myvtex.com/account#/orders",
+	"orderGroup": "1354370500187",
+	"subjectItemAttachment": {
+		"item": "CARE Silver Savior S...",
+		"totalItems": 725,
+		"extraItems": 724
+	},
+	"split": false,
+	"totalValue": 424512,
+	"callCenterOperatorData": null,
+	"_accountInfo": {
+		"MainAccountName": "keuneqacountry",
+		"AccountName": "keuneqacountry",
+		"Cnpj": "3333",
+		"Id": "9d6e1148-2f5a-42df-b17f-3a8170babaa1",
+		"AppId": null,
+		"IsActive": true,
+		"IsOperating": false,
+		"CreationDate": "2023-03-16T16:45:10.0002558Z",
+		"OperationDate": null,
+		"CompanyName": "Keune Haircosmetics Manufacturing B.V",
+		"TradingName": "Keune Haircosmetics",
+		"City": null,
+		"Complement": null,
+		"Country": null,
+		"State": null,
+		"Address": null,
+		"District": null,
+		"Number": null,
+		"PostalCode": null,
+		"Licenses": [
+			7
+		],
+		"ParentAccountId": null,
+		"ParentAccountName": null,
+		"InactivationDate": null,
+		"Platform": "vtex",
+		"Privacy": null,
+		"HasPiiRestriction": false,
+		"Infra": null
+	}
+}

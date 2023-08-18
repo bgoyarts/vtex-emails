@@ -10,13 +10,19 @@ helpers._formatDateTime = function (value, format) {
     'm+': value.getMinutes(),
     's+': value.getSeconds(),
     'q+': Math.floor((value.getMonth() + 3) / 3),
-    'S': value.getMilliseconds()
+    S: value.getMilliseconds(),
   };
   if (/(y+)/.test(format))
-    format = format.replace(RegExp.$1, (value.getFullYear() + '').substr(4 - RegExp.$1.length));
+    format = format.replace(
+      RegExp.$1,
+      (value.getFullYear() + '').substr(4 - RegExp.$1.length),
+    );
   for (var k in o) {
     if (new RegExp('(' + k + ')').test(format)) {
-      format = format.replace(RegExp.$1, RegExp.$1.length == 1 ? o[k] : ('00' + o[k]).substr(('' + o[k]).length));
+      format = format.replace(
+        RegExp.$1,
+        RegExp.$1.length == 1 ? o[k] : ('00' + o[k]).substr(('' + o[k]).length),
+      );
     }
   }
   return format;
@@ -56,61 +62,81 @@ helpers.addDaysToDate = function (date, days) {
 
 helpers.formatNumber = function (value, locale, decimals) {
   'use strict';
-  var num = isNaN(value) || value === '' || value === null ? 0.00 : value;
+  var num = isNaN(value) || value === '' || value === null ? 0.0 : value;
   return num.toLocaleString(locale, { minimumFractionDigits: decimals });
 };
 
 helpers.formatCurrency = function (value) {
   'use strict';
-  var num = isNaN(value) || value === '' || value === null ? 0.00 : value / 100;
-  return parseFloat(num).toFixed(2).replace('.', ',').toString().replace(/( \d )( ?=( \d\d\d )+( ?!\d ) )/g, '$1.');
+  var num = isNaN(value) || value === '' || value === null ? 0.0 : value / 100;
+  return parseFloat(num)
+    .toFixed(2)
+    .replace('.', ',')
+    .toString()
+    .replace(/( \d )( ?=( \d\d\d )+( ?!\d ) )/g, '$1.');
 };
 
 helpers.formatCurrencyWithoutDecimals = function (value) {
   'use strict';
   var num = isNaN(value) || value === '' || value === null ? 0 : value / 100;
-  return parseFloat(num).toFixed(0).replace('.', ',').toString().replace(/( d )( ?=( ddd )+( ?!d ) )/g, '$1.');
+  return parseFloat(num)
+    .toFixed(0)
+    .replace('.', ',')
+    .toString()
+    .replace(/( d )( ?=( ddd )+( ?!d ) )/g, '$1.');
 };
 
 helpers.formatPENCurrency = function (value) {
   'use strict';
-  var num = isNaN(value) || value === '' || value === null ? 0.00 : value / 100;
-  return parseFloat(num).toFixed(2).toString().replace(/( \d )( ?=( \d\d\d )+( ?!\d ) )/g, '$1,');
+  var num = isNaN(value) || value === '' || value === null ? 0.0 : value / 100;
+  return parseFloat(num)
+    .toFixed(2)
+    .toString()
+    .replace(/( \d )( ?=( \d\d\d )+( ?!\d ) )/g, '$1,');
 };
 
 helpers.formatUSDCurrency = function (value) {
   'use strict';
-  var num = isNaN(value) || value === '' || value === null ? 0.00 : value / 100;
-  return parseFloat(num).toFixed(2).toString().replace(/( \d )( ?=( \d\d\d )+( ?!\d ) )/g, '$1,');
+  var num = isNaN(value) || value === '' || value === null ? 0.0 : value / 100;
+  return parseFloat(num)
+    .toFixed(2)
+    .toString()
+    .replace(/( \d )( ?=( \d\d\d )+( ?!\d ) )/g, '$1,');
 };
 
 helpers.ifCond = function (v1, operator, v2, options) {
   'use strict';
   switch (operator) {
     case '==':
-      return (v1 == v2) ? options.fn(this) : options.inverse(this);
+      return v1 == v2 ? options.fn(this) : options.inverse(this);
     case '===':
-      return (v1 === v2) ? options.fn(this) : options.inverse(this);
+      return v1 === v2 ? options.fn(this) : options.inverse(this);
     case '!=':
-      return (v1 != v2) ? options.fn(this) : options.inverse(this);
+      return v1 != v2 ? options.fn(this) : options.inverse(this);
     case '<':
-      return (v1 < v2) ? options.fn(this) : options.inverse(this);
+      return v1 < v2 ? options.fn(this) : options.inverse(this);
     case '<=':
-      return (v1 <= v2) ? options.fn(this) : options.inverse(this);
+      return v1 <= v2 ? options.fn(this) : options.inverse(this);
     case '>':
-      return (v1 > v2) ? options.fn(this) : options.inverse(this);
+      return v1 > v2 ? options.fn(this) : options.inverse(this);
     case '>=':
-      return (v1 >= v2) ? options.fn(this) : options.inverse(this);
+      return v1 >= v2 ? options.fn(this) : options.inverse(this);
     case '&&':
-      return (v1 && v2) ? options.fn(this) : options.inverse(this);
+      return v1 && v2 ? options.fn(this) : options.inverse(this);
     case '||':
-      return (v1 || v2) ? options.fn(this) : options.inverse(this);
+      return v1 || v2 ? options.fn(this) : options.inverse(this);
     default:
       return options.inverse(this);
   }
 };
 
-helpers.hasSubStr = function (value, search, options) { if (value != null && value.toString().indexOf(search) !== -1) { return options.fn(this); } else { return options.inverse(this); } };
+helpers.hasSubStr = function (value, search, options) {
+  if (value != null && value.toString().indexOf(search) !== -1) {
+    return options.fn(this);
+  } else {
+    return options.inverse(this);
+  }
+};
 
 helpers.formatDateNoTimezone = function (_baseDate) {
   'use strict';
@@ -131,7 +157,7 @@ helpers.math = function (lvalue, operator, rvalue) {
     '-': lvalue - rvalue,
     '*': lvalue * rvalue,
     '/': lvalue / rvalue,
-    '%': lvalue % rvalue
+    '%': lvalue % rvalue,
   }[operator];
 };
 
@@ -172,7 +198,7 @@ helpers.group = function (list, options) {
       groups[key] = {
         index: groupIndex,
         value: key,
-        items: []
+        items: [],
       };
     }
 
@@ -250,7 +276,8 @@ helpers.richShippingData = function (context, options) {
           d = d.substring(0, d.length - 2);
           dType = 'bd';
         }
-        item.packageId = sla.id + sla.shippingEstimateDate + sla.shippingEstimate;
+        item.packageId =
+          sla.id + sla.shippingEstimateDate + sla.shippingEstimate;
         item.shippingEstimateDays = d;
         item.shippingEstimateDaysType = dType;
         item.shippingEstimate = sla.shippingEstimate;
@@ -268,34 +295,32 @@ helpers.richShippingData = function (context, options) {
   return options.fn(context);
 };
 
-
 helpers.consolidateGifts = function (items, options) {
   'use strict';
 
-  console.log(`consolidating gifts`)
   if (!items || !Array.isArray(items) || items.length === 0) {
-    console.error('je moeder')
-    return null
+    return null;
   }
 
-  const consolidatedItems = items.filter(function ({ isGift }) { return isGift }).reduce(function (prev, curr) {
-    if (!prev[curr.uniqueId]) {
-      prev[curr.uniqueId] = curr
+  const consolidatedItems = items
+    .filter(function ({ isGift }) {
+      return isGift;
+    })
+    .reduce(function (prev, curr) {
+      if (!prev[curr.uniqueId]) {
+        prev[curr.uniqueId] = curr;
 
-      return prev
-    }
+        return prev;
+      }
 
-    prev[curr.uniqueId].quantity += curr.quantity
+      prev[curr.uniqueId].quantity += curr.quantity;
 
-    return prev
-  }, {})
+      return prev;
+    }, {});
 
-  const arrayItems = Object.values(consolidatedItems)
-
+  const arrayItems = Object.values(consolidatedItems);
 
   return arrayItems.map(function (item) {
-      return options.fn(item)
-  })
-
-}
-
+    return options.fn(item);
+  });
+};
